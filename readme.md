@@ -1,6 +1,11 @@
-# xferno
+# xferno 2
 
 React hooks for [infernojs](https://infernojs.org/).
+
+Refactored and deeply tested with inferno7
+
+Added UseLayouteffect,Usereducer,Usememo 
+code patched for opt
 
 Status: experimental. See the "How it works" note at the bottom of this readme.
 ## Quick example
