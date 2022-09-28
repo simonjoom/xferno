@@ -7,6 +7,10 @@ Refactored and deeply tested with inferno7
 Added UseLayouteffect,Usereducer,Usememo 
 code patched for opt
 
+for installation, you need to use webpack aliases to help him to go to xferno instead of inferno, i do not use personaly babel for resolving the dependencies
+
+
+
 Status: experimental. See the "How it works" note at the bottom of this readme.
 ## Quick example
 
