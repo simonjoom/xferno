@@ -1,6 +1,6 @@
 import  { Component, Fragment, EMPTY_OBJ,  createComponentVNode as createComponentVNodeo, createFragment, createPortal, createRef, createRenderer, createTextVNode, createVNode, forwardRef, directClone, findDOMfromVNode, getFlagsForElementVnode, linkEvent, normalizeProps, options, render, rerender, version, 
 // Internal methods, used by hydration
-_CI, _HI, _M, _MCCC,_ME,_MFCC,_MR, _MP, __render, _RFC } from './infernopack'; 
+_CI, _HI, _M, _MCCC,_ME,_MFCC,_MR, _MP, __render, _RFC } from './inferno-core'; 
 //import { eq } from './eq'; 
  
 import { VNodeFlags } from 'inferno-vnode-flags'; 
