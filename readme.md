@@ -15,7 +15,7 @@ Status: experimental. See the "How it works" note at the bottom of this readme.
 ## Quick example
 
 ```js
-import { useState } from 'xferno';
+import { useState } from 'React';
 
 function Counter() {
   const [count, setCount] = useState(0);
@@ -33,17 +33,7 @@ npm install --save xferno
 ```
 
 ## Configuration
-
-Be sure to modify your `babel-plugin-inferno` to have `imports: 'xferno'`:
-
-```json
-[
-  "babel-plugin-inferno",
-  {
-    "imports": "xferno"
-  }
-]
-```
+see https://github.com/simonjoom/xferno/commit/37a216f76646b2dccc3659b18c4fb7c0ce3e1d8e
 
 ## Usage
 
