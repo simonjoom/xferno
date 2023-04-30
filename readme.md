@@ -32,7 +32,7 @@ function Counter() {
 Download source code from here 
 ``` 
 for next step
-see https://github.com/simonjoom/xferno/commit/37a216f76646b2dccc3659b18c4fb7c0ce3e1d8e
+read https://github.com/simonjoom/xferno/commit/37a216f76646b2dccc3659b18c4fb7c0ce3e1d8e#commitcomment-111208520
 
 ## Usage
 
